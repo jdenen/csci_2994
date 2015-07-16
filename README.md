@@ -6,7 +6,7 @@ I'd like to use the project's README as a detailed class outline. As plans chang
 
 ### Week 1
 Week 1 will be pretty lecture heavy. We want to do a quick Ruby overview and briefly introduce a lot of ideas.
-- Agenda
+- [Agenda](/weeks/one.md)
 - TDD Calculator
 
 ### Week 2
