@@ -1,0 +1,63 @@
+What do we need to do:
+- create the model blog app
+- create the user stories for the blog app
+- get the lab computers set up
+- ask Gary about the course description in the book
+- body of katas for students advancing quickly
+
+Week 1:
+- What is Agile Testing and Development - elevator pitch
+- basic unit testing, maybe with a calculator, build addition in class, homework is subtract, * and /
+- AAA and Red, green, refactor
+- testing pyramid
+- Rspec and Ruby "primer"
+- gems
+- classes methods, scope, arrays hashes
+- how do you find the first test to write
+- explanation of Git
+
+Week 2:
+- introduction to stories
+- write test scenarios for an example story (like a login screen)
+- write cucumber scenarios and pending step definitions
+- introduce the testing quadrant
+- convert calc to cuke
+- a little about regex
+- running test, e.g. command line
+
+Week 3:
+- intro to ATDD
+- introduce stories for the blog
+- implementing a single scenario
+- brief intro to managing work with SCRUM
+- model architecture
+- building the scenario from the bottom up
+- mocking/fakes
+- using effective TODOs
+
+Week 4:
+- working with a backlog
+- page object pattern and driving a browser -> major components, class representing page, visiting pages, identifying elements on the page
+- hooks
+- tags
+
+Week 5:
+- sinatra and simple web applications
+- start satisfying tests
+
+Week 6:
+- code smells and refactoring
+- continue satisfying tests
+- continuous integration
+- rake
+
+Week 7:
+- testing services (REST)
+- JSON
+- add a "blog" service and tests
+
+Week 8:
+- active record
+- test data management
+- what are all of the tests you should have for common scenarios
+- test coverage
