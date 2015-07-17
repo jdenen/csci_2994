@@ -44,8 +44,8 @@ This is our repository for the Columbus State CSCI-2994 class.
 - **TODO**: Homework
 
 ### Extra Katas
-- Roman Numeral Converter
-- Roman Numeral Unconverter
-- FizzBuzz
-- Sentence Reverser
-- Non-natural Sorter
+- **TODO**: Roman Numeral Converter
+- **TODO**: Roman Numeral Unconverter
+- **TODO**: FizzBuzz
+- **TODO**: Sentence Reverser
+- **TODO**: Non-natural Sorter
