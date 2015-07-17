@@ -13,27 +13,26 @@ This is our repository for the Columbus State CSCI-2994 class.
 
 ### Week 3
 - [Agenda](/weeks/three.md)
-- Create a backlog ([Trello](http://trello.com))
-- Convert stories to scenarios
-- Stub scenario assertions
+- Homework: Create a backlog with [Trello](http://trello.com)
+- Homework: Convert project stories into scenarios
+- Homework: Stub those scenario assertions
 
 ### Week 4
 - [Agenda](/weeks/four.md)
-- Impelement test code
-- Update backlog
+- Homework: Impelement test code for project scenarios
+- Homework: Update backlog
 
 ### Week 5
 - [Agenda](/weeks/five.md)
-- Build the Sinatra app so test pass. It doesn't have to be good!
-- Update backlog
+- Homework: Build the project app so tests pass
+- Homewokr: Update backlog
 
 ### Extra Katas
-We want to ensure that students are writing a lot of code. So we need a bank of katas for them to try.
-- Convert to Roman Numeral
-- Convert from Roman Numeral
+- Roman Numeral Converter
+- Roman Numeral Unconverter
 - FizzBuzz
-- Sentence reversal
-- Non-natural sorting
+- Sentence Reverser
+- Non-natural Sorter
 
 ## TODOs
 
