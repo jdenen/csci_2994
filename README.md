@@ -25,7 +25,7 @@ This is our repository for the Columbus State CSCI-2994 class.
 ### Week 5
 - [Agenda](/weeks/five.md)
 - Homework: Build the project app so tests pass
-- Homewokr: Update backlog
+- Homework: Update backlog
 
 ### Extra Katas
 - Roman Numeral Converter
