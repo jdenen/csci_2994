@@ -13,7 +13,7 @@ This is our repository for the Columbus State CSCI-2994 class.
 
 ### Week 3
 - [Agenda](/weeks/three.md)
-- Create a backlog (Trello)
+- Create a backlog ([Trello](http://trello.com))
 - Convert stories to scenarios
 - Stub scenario assertions
 
