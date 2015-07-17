@@ -1,34 +1,6 @@
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#sec-1">1. Week 1</a>
-<ul>
-<li><a href="#sec-1-1">1.1. What is Agile Testing and Development?</a></li>
-<li><a href="#sec-1-2">1.2. Git</a></li>
-<li><a href="#sec-1-3">1.3. Calculator kata (lecture)</a>
-<ul>
-<li><a href="#sec-1-3-1">1.3.1. Ruby</a></li>
-<li><a href="#sec-1-3-2">1.3.2. RSpec</a></li>
-<li><a href="#sec-1-3-3">1.3.3. Addition kata</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-4">1.4. Calculator kata (lab)</a>
-<ul>
-<li><a href="#sec-1-4-1">1.4.1. Subtraction</a></li>
-<li><a href="#sec-1-4-2">1.4.2. Multiplication</a></li>
-<li><a href="#sec-1-4-3">1.4.3. Division</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
+# Week 1
 
-# Week 1<a id="sec-1" name="sec-1"></a>
-
-## What is Agile Testing and Development?<a id="sec-1-1" name="sec-1-1"></a>
+## What is Agile Testing and Development?
 
 -   industry trends (problem we're trying to solve)
 -   tdd introduciton
@@ -36,15 +8,13 @@
 -   testing pyramid
 -   agile (scrum)
 
-## Git<a id="sec-1-2" name="sec-1-2"></a>
+## Git
 
 -   what is version control? (brief)
 -   distributed vs centralized (git vs svn)
 -   basic commands (clone, commit, push, pull)
 
-## Calculator kata (lecture)<a id="sec-1-3" name="sec-1-3"></a>
-
-### Ruby<a id="sec-1-3-1" name="sec-1-3-1"></a>
+## Ruby
 
 -   classes
 -   methods
@@ -53,13 +23,13 @@
 -   array and hash
 -   gems
 
-### RSpec<a id="sec-1-3-2" name="sec-1-3-2"></a>
+## RSpec
 
 -   bdd (writing style) vs tdd (practice of writing)
 -   red/green/refactor
 -   how do you write the first test?
 
-### Addition kata<a id="sec-1-3-3" name="sec-1-3-3"></a>
+## Addition kata
 
 -   project structure (lib, spec, feature, etc)
 -   Gemfile (brief)
@@ -86,11 +56,9 @@
         -   red/green
         -   refactor on more than 2 arguments
 
-## Calculator kata (lab)<a id="sec-1-4" name="sec-1-4"></a>
+## Lab and Homework
 
-### Subtraction<a id="sec-1-4-1" name="sec-1-4-1"></a>
-
--   in class
+### Subtraction
 
 1.  Requirements
 
@@ -100,9 +68,7 @@
     -   identity (5 - 0 == 5)
     -   inverse (1 - 1 == 0)
 
-### Multiplication<a id="sec-1-4-2" name="sec-1-4-2"></a>
-
--   at home
+### Multiplication
 
 1.  Requirements
 
@@ -111,9 +77,7 @@
     -   associative (2 \* 3) \* 4 == (4 \* 3) \* 2
     -   identity 5 \* 1 == 5
 
-### Division<a id="sec-1-4-3" name="sec-1-4-3"></a>
-
--   at home
+### Division
 
 1.  Requirements
 
