@@ -21,5 +21,3 @@ end
 Then /^an error is raised$/ do
   expect(@result).to be_a ZeroDivisionError
 end
-
-
