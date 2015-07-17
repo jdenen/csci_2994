@@ -25,10 +25,12 @@
 ## Introduce the Final Project
 
 ### Stories
-TODO
+
+TODO: Create a number of user stories for the blog
 
 ### Walk through the guide for one scenario
-TODO
+
+TODO: Identify story for scenario conversion
 
 ## Scrumming in our Final Project
 

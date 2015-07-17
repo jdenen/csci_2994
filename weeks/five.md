@@ -43,6 +43,8 @@ Client side, what you see as an end user.
 
 ### Run our first scenario
 
+TODO: Identify first scenario
+
 See it fail? Why is it failing?
 
 ### app.rb

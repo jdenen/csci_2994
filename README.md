@@ -35,3 +35,12 @@ We want to ensure that students are writing a lot of code. So we need a bank of 
 - FizzBuzz
 - Sentence reversal
 - Non-natural sorting
+
+### TODOs
+
+#### Week 3
+- Create user stories for final project
+- Choose a story to use as our example for converting stories to scenarios
+
+#### Week 5
+- Identify the best scenario to work for starting the final project app
