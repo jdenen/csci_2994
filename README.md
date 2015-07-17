@@ -2,7 +2,6 @@
 This is our repository for the Columbus State CSCI-2994 class.
 
 ## Outline
-I'd like to use the project's README as a detailed class outline. As plans change and we adapt to student pace, we should adjust the outline here and reuse that information in later iterations.
 
 ### Week 1
 - [Agenda](/weeks/one.md)
