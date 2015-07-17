@@ -5,14 +5,28 @@ This is our repository for the Columbus State CSCI-2994 class.
 I'd like to use the project's README as a detailed class outline. As plans change and we adapt to student pace, we should adjust the outline here and reuse that information in later iterations.
 
 ### Week 1
-Week 1 will be pretty lecture heavy. We want to do a quick Ruby overview and briefly introduce a lot of ideas.
 - [Agenda](/weeks/one.md)
-- TDD Calculator
+- Homework: TDD Calculator
 
 ### Week 2
-Week 2 should balance lecture and lab well. We'll be rehashing the Week 1's kata to introduce stories, scenarios, and Gherkin.
-- Agenda
+- [Agenda](/weeks/two.md)
 - Cucumber-ing the Calculator
+
+### Week 3
+- [Agenda](/weeks/three.md)
+- Create a backlog (Trello)
+- Convert stories to scenarios
+- Stub scenario assertions
+
+### Week 4
+- [Agenda](/weeks/four.md)
+- Impelement test code
+- Update backlog
+
+### Week 5
+- [Agenda](/weeks/five.md)
+- Build the Sinatra app so test pass. It doesn't have to be good!
+- Update backlog
 
 ### Extra Katas
 We want to ensure that students are writing a lot of code. So we need a bank of katas for them to try.
