@@ -9,7 +9,7 @@ This is our repository for the Columbus State CSCI-2994 class.
 
 ### Week 2
 - [Agenda](/weeks/two.md)
-- Cucumber-ing the Calculator
+- Homework: [ATDD Calculator](/katas/calculator/features)
 
 ### Week 3
 - [Agenda](/weeks/three.md)
