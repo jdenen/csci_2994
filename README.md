@@ -5,7 +5,7 @@ This is our repository for the Columbus State CSCI-2994 class.
 
 ### Week 1
 - [Agenda](/weeks/one.md)
-- Homework: TDD Calculator
+- Homework: [TDD Calculator](/katas/calculator/spec)
 
 ### Week 2
 - [Agenda](/weeks/two.md)
