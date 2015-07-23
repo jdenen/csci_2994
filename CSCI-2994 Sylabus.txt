@@ -43,6 +43,7 @@ Week 4:
 
 Week 5:
 - sinatra and simple web applications
+	- go through the sinatra getting started guide, REST, MVC
 - start satisfying tests
 
 Week 6:
