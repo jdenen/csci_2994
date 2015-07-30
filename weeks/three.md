@@ -48,7 +48,9 @@
 
 ### Walk through the guide for one scenario
 
-TODO: Identify story for scenario conversion
+	As an author
+	I want to create a post
+	So that I can share my knowledge with the world
 
 ## Scrumming in our Final Project
 
