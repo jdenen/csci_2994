@@ -32,8 +32,14 @@ This is our repository for the Columbus State CSCI-2994 class.
 - Homework: Update backlog
 
 ### Week 6
-- **TODO**: Agenda
-- **TODO**: Homework
+- [Agenda](/weeks/six.md)
+- **TODO**: Steps to integrate Calculator kata with TravisCI
+- Homework:
+  - Create rake tasks code smell tools
+  - Add tech debt to the backlog and track smell numbers
+  - Incur as little tech debt as possible
+  - Continue making tests pass
+  - Update backlog
 
 ### Week 7
 - **TODO**: Agenda
