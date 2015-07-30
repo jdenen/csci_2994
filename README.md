@@ -43,11 +43,18 @@ This is our repository for the Columbus State CSCI-2994 class.
 
 ### Week 7
 - **TODO**: Agenda
+  - Testing web services
+  - Adding an RSS-like service to the blog
+  - TDD the RSS-like service
 - **TODO**: Homework
+  - Final test project
 
 ### Week 8
 - **TODO**: Agenda
-- **TODO**: Homework
+  - Active Record
+  - Test Data Management
+  - FactoryGirl
+  - Faker
 
 ### Extra Katas
 - **TODO**: Roman Numeral Converter
