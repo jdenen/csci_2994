@@ -15,8 +15,6 @@ This is our repository for the Columbus State CSCI-2994 class.
 - [Agenda](/weeks/three.md)
 - Homework: Create a backlog with [Trello](http://trello.com)
 - Homework: Convert project stories into scenarios
-- **TODO**: Create user stories for the final project blog
-- **TODO**: Choose a story to use as our example for converting to a scenario
 - Homework: Stub those scenario assertions
 
 ### Week 4
