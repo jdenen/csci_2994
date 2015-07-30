@@ -26,7 +26,25 @@
 
 ### Stories
 
-TODO: Create a number of user stories for the blog
+	As an author
+	I want to create a post
+	So that I can share my knowledge with the world
+
+	As a reader
+	I want to read posts from my favorite blogger
+	So that I can learn something
+
+	As a reader
+	I want to read an entire post
+	So that I can get all the details
+
+	As a reader
+	I want to search for posts by title
+	So that I can find specific information
+
+	As an author
+	I want to delete posts
+	So that I can hide my stupidity
 
 ### Walk through the guide for one scenario
 
