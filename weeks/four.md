@@ -28,7 +28,7 @@
     -   naming elements
     -   element identification
         -   ID, class, xpath, text, name
-    -   defining your own methods (#log<sub>in</sub><sub>as</sub>)
+    -   defining your own methods (#log_in_as)
     -   PageFactory DSL
 
 ## Browser driving
